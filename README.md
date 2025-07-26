@@ -103,7 +103,7 @@ Esta aplicación es parte de un proyecto más amplio de investigación poética,
 ## ✍️ Autor
 
 **Dédalo Toro Rivadeneira**  
-Investigador en ecopoesía, estética del número y filosofía de la creación.
+Investigador en ecopoesía, estética y filosofía de la creación.
 
 ---
 
