@@ -1,4 +1,4 @@
-# 🌀 Poética Visual V2.2 – Algorítmica del Infinito
+# 🌀 Poética Visual V2.3 – Algorítmica del Infinito
 
 Explora cómo diferentes constantes matemáticas transforman un texto literario en un poema generado algorítmicamente. Esta aplicación convierte decimales infinitos en caminos poéticos que atraviesan un corpus de palabras, generando **Tankas visuales** y flujos de lectura con sentido estético y matemático.
 
